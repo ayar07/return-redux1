@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header {
+    background-color: rgb(5, 80, 146);
+    color: white;
+}
+
+h1,
+h2 {
+    display: inline;
+}
+
+h1 {
+    text-indent: 70px;
+    margin-top: 60px;
+    padding: 40px;
+    padding-right: 450px;
+}
+
+h2 {
+    padding-left: 50px;
+}
