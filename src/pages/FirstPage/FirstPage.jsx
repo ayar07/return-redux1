@@ -9,8 +9,8 @@ const FirstPage = () => {
             <div class={scc.container2}>
 
                 <Link to={'/SecondPage'}> <div className={scc.boxf}><img className={scc.img} src={mar} alt="" /></div></Link>
-                <Link to={'/SecondPage'}> <div className={scc.boxf}><img className={scc.img} src={mar} alt="" /></div></Link>
-                <Link to={'/SecondPage'}> <div className={scc.boxf}><img className={scc.img} src={mar} alt="" /></div></Link>
+                <Link to={'/ThirdPage'}> <div className={scc.boxf}><img className={scc.img} src={mar} alt="" /></div></Link>
+                <Link to={'/ForthPage'}> <div className={scc.boxf}><img className={scc.img} src={mar} alt="" /></div></Link>
             </div>
         </div>
     )

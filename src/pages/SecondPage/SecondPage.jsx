@@ -7,16 +7,9 @@ import css from "./styles.module.css"
 const SecondPage = () => {
     return (
         <div>
-            <Link to={'/'}> <div className={css.box}><img className={css.img} src={vel} alt="" /></div></Link>
+            <Link to={'/'}> <div className={css.box}><img className={css.img} src={`https://logos-world.net/wp-content/uploads/2020/05/The-Avengers-Logo-2012.jpg`} alt="" /></div></Link>
             <p>
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nesciunt distinctio, mollitia cum molestiae, numquam
-                modi ea animi sunt itaque vero dolor accusantium nobis in quis nisi fugiat quidem exercitationem similique.
-                Excepturi quae voluptatem quos aspernatur accusantium sit expedita, quibusdam deserunt a iusto placeat
-                distinctio facere quidem recusandae praesentium. Laudantium architecto eum quae voluptate? Repellat ipsa
-                voluptates aut quis ab natus?
-                Rem nobis reiciendis provident adipisci laborum facilis ducimus aspernatur repellat saepe corporis delectus
-                eligendi est porro tempore eaque quo, dignissimos maxime, velit, maiores amet cupiditate similique? Consectetur
-                explicabo laboriosam consequatur.
+            Marvel Comics (от англ. marvel — «чудо») — американский издатель комиксов и дочерняя компания медиаконгломерата The Walt Disney Company[3]. Marvel наиболее известна такими сериями комиксов, как «Фантастическая четвёрка», «Люди Икс», «Мстители», «Стражи Галактики», «Защитники», «Вечные», «Человек-паук», «Росомаха», «Железный человек», «Капитан Америка», «Тор», «Халк», «Дэдпул», «Сорвиголова», «Каратель», «Доктор Стрэндж», «Чёрная пантера», «Человек-муравей и Оса», «Чёрная кошка», «Шан-Чи», «Мисс Марвел», «Капитан Марвел», «Алая Ведьма и Ртуть», «Вижн», «Веном», «Серебряный Сёрфер», «Призрачный гонщик», «Блэйд», «Чёрная вдова», «Соколиный глаз», «Люк Кейдж», «Железный Кулак» и «Джессика Джонс». Большинство персонажей комиксов Marvel обитают в одной вымышленной вселенной, получившей название Земля-616.
             </p>
         </div>
     )
